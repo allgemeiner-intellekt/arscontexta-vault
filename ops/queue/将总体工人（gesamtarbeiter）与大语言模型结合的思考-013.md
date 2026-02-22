@@ -27,7 +27,7 @@ Added links to:
 Added to political-economy and ai-and-technology maps.
 
 ## /revisit
-(to be filled by /revisit phase)
+Backward pass: [[cost friction in AI use suppresses the iterative refinement that actually develops prompt skill]] now references this question note (added in enrichment). No other pre-batch notes need backward links. Question note is well-referenced from batch siblings.
 
 ## /verify
 (to be filled by /verify phase)
