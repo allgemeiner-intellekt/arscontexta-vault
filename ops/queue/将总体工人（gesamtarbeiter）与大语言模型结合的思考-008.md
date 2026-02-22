@@ -23,7 +23,10 @@ Semantic neighbor: none in vault.
 Note created at: notes/individual resistance to AI exploitation is limited; genuine resistance must be collective.md
 
 ## /connect
-(to be filled by /connect phase)
+Added links to:
+- [[what determines the threshold at which engaging with AI tools becomes net exploitation rather than net gain for the individual]]
+- [[digital tools occupy a dual character as both machine in the labor process and personal instrument]]
+Added to political-economy map.
 
 ## /revisit
 (to be filled by /revisit phase)
