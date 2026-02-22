@@ -29,7 +29,7 @@ Added links to:
 Added to political-economy and philosophy maps.
 
 ## /revisit
-(to be filled by /revisit phase)
+Backward pass: pre-batch notes checked. No backward links warranted. Pasquinelli/operaismo note well-connected within batch and to philosophy map.
 
 ## /verify
 (to be filled by /verify phase)
