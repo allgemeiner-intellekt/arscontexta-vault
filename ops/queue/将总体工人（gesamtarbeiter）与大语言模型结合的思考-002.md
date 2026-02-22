@@ -20,7 +20,7 @@ Semantic neighbor: none in vault.
 ---
 
 ## Create
-(to be filled by create phase)
+Note created at: notes/both illusions of mental labor are real at different levels of abstraction from social relations.md
 
 ## /connect
 (to be filled by /connect phase)
