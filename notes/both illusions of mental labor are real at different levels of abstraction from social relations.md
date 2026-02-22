@@ -24,6 +24,8 @@ This structure — ideology as partial truth elevated to totality — is more so
 
 Relevant Notes:
 - [[LLMs replace the mental worker's illusion of authorship with the illusion that capital itself is productive]] -- the specific historical shift this note explains the philosophical structure of
+- [[exploitation under capitalism is not experienced as deprivation but as the natural order of value itself]] -- the related claim: exploitation registers as natural order because the exploitative process IS the value-constitution process, not a violation of it
+- [[the Gesamtarbeiter concept bridges individual mental labor and collective machine-mediated production]] -- the concept that makes the authorship illusion's abstraction visible: individuals contribute to collective production they do not see
 
 Topics:
 - [[political-economy]]
