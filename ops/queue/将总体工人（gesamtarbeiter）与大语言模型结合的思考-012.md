@@ -24,7 +24,10 @@ Tension note created at: ops/tensions/LLMs as emancipatory tool vs LLMs as machi
 (This is an open tension, routed to ops/tensions/ rather than notes/)
 
 ## /connect
-(to be filled by /connect phase)
+Tension note in ops/tensions/ references both conflicting notes:
+- [[LLMs are the latest historical case for Babbage's labor theory of machinery and Marx's general intellect]]
+- [[exploitation through digital tools is structurally unavoidable for individuals under capitalism]]
+Connected to open question: [[what determines the threshold at which engaging with AI tools becomes net exploitation rather than net gain for the individual]]
 
 ## /revisit
 (to be filled by /revisit phase)
