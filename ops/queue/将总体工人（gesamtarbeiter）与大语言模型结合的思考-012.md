@@ -20,7 +20,8 @@ Conflicting notes: [[LLMs are the latest historical case for Babbage's labor the
 ---
 
 ## Create
-(to be filled by create phase)
+Tension note created at: ops/tensions/LLMs as emancipatory tool vs LLMs as machine deepening exploitation.md
+(This is an open tension, routed to ops/tensions/ rather than notes/)
 
 ## /connect
 (to be filled by /connect phase)
