@@ -1,0 +1,43 @@
+{
+  "schema_version": 3,
+  "queue": [],
+  "maintenance_conditions": {
+    "orphan_notes": {
+      "description": "Notes with no incoming links",
+      "threshold": 5,
+      "check": "grep -rL '\\[\\[' notes/ | wc -l",
+      "action": "Run /connect on orphan notes",
+      "priority": "multi-session"
+    },
+    "stale_notes": {
+      "description": "Notes not modified in 30+ days with sparse connections",
+      "threshold": 10,
+      "action": "Run /revisit on stale notes",
+      "priority": "slow"
+    },
+    "inbox_overflow": {
+      "description": "Unprocessed items in inbox/",
+      "threshold": 10,
+      "action": "Run /pipeline or /distill on inbox items",
+      "priority": "session"
+    },
+    "pending_observations": {
+      "description": "Unprocessed observations in ops/observations/",
+      "threshold": 10,
+      "action": "Run /rethink to triage observations",
+      "priority": "multi-session"
+    },
+    "pending_tensions": {
+      "description": "Unresolved tensions in ops/tensions/",
+      "threshold": 5,
+      "action": "Run /rethink to resolve tensions",
+      "priority": "multi-session"
+    },
+    "unprocessed_sessions": {
+      "description": "Session files without mining tasks",
+      "threshold": 3,
+      "action": "Mine session transcripts for insights",
+      "priority": "slow"
+    }
+  }
+}
