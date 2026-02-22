@@ -20,7 +20,7 @@ Semantic neighbor: none in vault.
 ---
 
 ## Create
-(to be filled by create phase)
+Note created at: notes/exploitation through digital tools is structurally unavoidable for individuals under capitalism.md
 
 ## /connect
 (to be filled by /connect phase)
