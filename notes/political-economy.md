@@ -26,6 +26,10 @@ Marx's critique of political economy, mainstream economic theory (neoclassical, 
 - [[exploitation through digital tools is structurally unavoidable for individuals under capitalism]] — no individual exit; exploitation is constitutive
 - [[individual resistance to AI exploitation is limited; genuine resistance must be collective]] — political conclusion: collective action required
 
+### Adjacent (AI-PE Intersection)
+- [[cost friction in AI use suppresses the iterative refinement that actually develops prompt skill]] — enriched with political-economy framing: "free" AI use involves unpaid cognitive labor feeding training data; cost friction has a rational structural core
+- [[Claude Code's evolution from tool to machine mirrors the historical transition from craft to industrial machinery]] — case study in tool-to-machine transition as structural tendency
+
 ### Open Questions
 - [[what determines the threshold at which engaging with AI tools becomes net exploitation rather than net gain for the individual]] — where does individual benefit end and net exploitation begin?
 
