@@ -23,7 +23,10 @@ Semantic neighbor: none in vault.
 Note created at: notes/Pasquinelli's Italian Operaismo reading of information machines provides the theoretical frame for understanding LLMs as Gesamtarbeiter.md
 
 ## /connect
-(to be filled by /connect phase)
+Added links to:
+- [[exploitation under capitalism is not experienced as deprivation but as the natural order of value itself]]
+- [[Claude Code's evolution from tool to machine mirrors the historical transition from craft to industrial machinery]]
+Added to political-economy and philosophy maps.
 
 ## /revisit
 (to be filled by /revisit phase)
