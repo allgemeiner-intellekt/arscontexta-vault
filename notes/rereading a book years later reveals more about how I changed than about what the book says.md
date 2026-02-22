@@ -15,5 +15,8 @@ This suggests that understanding is never just about the object — it is always
 
 ---
 
+Relevant Notes:
+- [[the questions you ask about a subject reveal your assumptions more than they reveal the subject]] -- the same structure applies: what you notice when rereading reflects your assumptions, just as the questions you ask do
+
 Topics:
 - [[index]]
