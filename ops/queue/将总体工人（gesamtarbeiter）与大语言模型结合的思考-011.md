@@ -23,7 +23,10 @@ Semantic neighbor: none in vault.
 Note created at: notes/the Gesamtarbeiter concept bridges individual mental labor and collective machine-mediated production.md
 
 ## /connect
-(to be filled by /connect phase)
+Added links to:
+- [[both illusions of mental labor are real at different levels of abstraction from social relations]]
+- [[exploitation through digital tools is structurally unavoidable for individuals under capitalism]]
+Added to political-economy and philosophy maps.
 
 ## /revisit
 (to be filled by /revisit phase)
