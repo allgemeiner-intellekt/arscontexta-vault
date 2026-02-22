@@ -23,7 +23,10 @@ Semantic neighbor: none in vault.
 Note created at: notes/exploitation under capitalism is not experienced as deprivation but as the natural order of value itself.md
 
 ## /connect
-(to be filled by /connect phase)
+Added links to:
+- [[LLMs convert internet content into exploitable value by making everything published a productive input]]
+- [[individual resistance to AI exploitation is limited; genuine resistance must be collective]]
+Added to political-economy and philosophy maps.
 
 ## /revisit
 (to be filled by /revisit phase)
