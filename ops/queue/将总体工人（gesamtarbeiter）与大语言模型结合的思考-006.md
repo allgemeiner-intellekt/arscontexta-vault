@@ -29,7 +29,7 @@ Added links to:
 Added to political-economy and ai-and-technology maps.
 
 ## /revisit
-(to be filled by /revisit phase)
+Backward pass: pre-batch notes checked. No backward links warranted for dual character note. Well-connected in batch.
 
 ## /verify
 (to be filled by /verify phase)
