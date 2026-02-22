@@ -20,7 +20,7 @@ Semantic neighbor: none in vault.
 ---
 
 ## Create
-(to be filled by create phase)
+Note created at: notes/Pasquinelli's Italian Operaismo reading of information machines provides the theoretical frame for understanding LLMs as Gesamtarbeiter.md
 
 ## /connect
 (to be filled by /connect phase)
