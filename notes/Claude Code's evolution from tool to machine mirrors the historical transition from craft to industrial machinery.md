@@ -28,6 +28,8 @@ Relevant Notes:
 - [[digital tools occupy a dual character as both machine in the labor process and personal instrument]] -- the dual character that this evolution moves: early Claude Code at the tool pole, later versions shifting toward the machine pole
 - [[LLMs are the latest historical case for Babbage's labor theory of machinery and Marx's general intellect]] -- the theoretical framework this case study instantiates
 - [[cost friction in AI use suppresses the iterative refinement that actually develops prompt skill]] -- an adjacent phenomenon: the tool-to-machine transition also displaces the user's developing skill
+- [[the Gesamtarbeiter concept bridges individual mental labor and collective machine-mediated production]] -- the collective labor concept: Claude Code absorbing open-source community knowledge into closed capital is a Gesamtarbeiter dynamic
+- [[exploitation through digital tools is structurally unavoidable for individuals under capitalism]] -- the structural frame: Claude Code's evolution is not a design choice but a structural tendency
 
 Topics:
 - [[political-economy]]
