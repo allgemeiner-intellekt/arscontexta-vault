@@ -29,7 +29,7 @@ Added links to:
 Added to political-economy map.
 
 ## /revisit
-(to be filled by /revisit phase)
+Backward pass: pre-batch notes checked. No backward links warranted. Collective resistance note well-connected in batch.
 
 ## /verify
 (to be filled by /verify phase)
