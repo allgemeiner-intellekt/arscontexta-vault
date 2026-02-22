@@ -1,6 +1,17 @@
 {
   "schema_version": 3,
-  "queue": [],
+  "queue": [
+    {
+      "id": "extract-免费使用AI是最好的提示词工程",
+      "batch": "免费使用AI是最好的提示词工程",
+      "type": "extract",
+      "source": "inbox/archive/免费使用AI是最好的提示词工程/免费使用AI是最好的提示词工程.md",
+      "current_phase": "extract",
+      "status": "pending",
+      "created": "2026-02-22",
+      "claim_start": 1
+    }
+  ],
   "maintenance_conditions": {
     "orphan_notes": {
       "description": "Notes with no incoming links",
