@@ -20,7 +20,7 @@ Semantic neighbor: none in vault.
 ---
 
 ## Create
-(to be filled by create phase)
+Note created at: notes/the Gesamtarbeiter concept bridges individual mental labor and collective machine-mediated production.md
 
 ## /connect
 (to be filled by /connect phase)
