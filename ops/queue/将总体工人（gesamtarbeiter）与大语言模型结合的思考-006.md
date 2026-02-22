@@ -23,7 +23,10 @@ Semantic neighbor: none in vault.
 Note created at: notes/digital tools occupy a dual character as both machine in the labor process and personal instrument.md
 
 ## /connect
-(to be filled by /connect phase)
+Added links to:
+- [[LLMs are the latest historical case for Babbage's labor theory of machinery and Marx's general intellect]]
+- [[individual resistance to AI exploitation is limited; genuine resistance must be collective]]
+Added to political-economy and ai-and-technology maps.
 
 ## /revisit
 (to be filled by /revisit phase)
