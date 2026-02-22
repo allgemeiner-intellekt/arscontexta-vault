@@ -18,6 +18,11 @@ Welcome to your knowledge system.
 - [[history]] — Chinese history, PRC, and general historical thinking
 - [[ai-and-technology]] — artificial intelligence, its development, and implications
 
+## Notes
+- [[rereading a book years later reveals more about how I changed than about what the book says]]
+- [[the questions you ask about a subject reveal your assumptions more than they reveal the subject]]
+- [[recurring disagreements often stem from different frames rather than different facts]]
+
 ## Getting Started
 1. Read self/identity.md to understand the agent's purpose
 2. Capture your first note in notes/ via the inbox pipeline
