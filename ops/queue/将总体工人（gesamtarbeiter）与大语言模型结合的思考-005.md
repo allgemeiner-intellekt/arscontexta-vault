@@ -20,7 +20,7 @@ Semantic neighbor: none in vault.
 ---
 
 ## Create
-(to be filled by create phase)
+Note created at: notes/LLMs are the latest historical case for Babbage's labor theory of machinery and Marx's general intellect.md
 
 ## /connect
 (to be filled by /connect phase)
