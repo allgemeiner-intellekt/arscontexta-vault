@@ -28,6 +28,8 @@ Relevant Notes:
 - [[exploitation through digital tools is structurally unavoidable for individuals under capitalism]] -- the structural conclusion from this dual character: the exploitative dimension cannot be individually escaped
 - [[Claude Code's evolution from tool to machine mirrors the historical transition from craft to industrial machinery]] -- a concrete case study of the same object shifting from the tool pole toward the machine pole over time
 - [[LLMs convert internet content into exploitable value by making everything published a productive input]] -- the valorization mechanism that makes the machine dimension real
+- [[LLMs are the latest historical case for Babbage's labor theory of machinery and Marx's general intellect]] -- the theoretical lineage: Babbage's distinction between tool and machine prefigures the dual character analysis
+- [[individual resistance to AI exploitation is limited; genuine resistance must be collective]] -- the political consequence: the dual character makes individual exit from the machine dimension impossible
 
 Topics:
 - [[political-economy]]
