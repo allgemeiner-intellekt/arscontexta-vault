@@ -20,7 +20,7 @@ Semantic neighbor: none found. Novel claim connecting Marxist ideology critique 
 ---
 
 ## Create
-(to be filled by create phase)
+Note created at: notes/LLMs replace the mental worker's illusion of authorship with the illusion that capital itself is productive.md
 
 ## /connect
 (to be filled by /connect phase)
