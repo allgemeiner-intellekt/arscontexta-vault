@@ -30,7 +30,10 @@ Added links to:
 Added to political-economy and ai-and-technology maps.
 
 ## /revisit
-(to be filled by /revisit phase)
+Backward pass complete. Checked pre-batch notes:
+- [[cost friction in AI use suppresses the iterative refinement that actually develops prompt skill]] — already updated by enrich-014; now references new batch notes
+- Other pre-batch notes (AI responses, iterative AI, etc.) — no genuine backward links warranted; connections are tenuous
+Batch notes already cross-link densely; the graph is well-connected within the batch.
 
 ## /verify
 (to be filled by /verify phase)
