@@ -19,7 +19,10 @@ Rationale: The existing note addresses cost friction from a behavioral/psycholog
 ---
 
 ## Enrich
-(to be filled by enrich phase)
+Added political-economy framing to: notes/cost friction in AI use suppresses the iterative refinement that actually develops prompt skill.md
+- Added paragraph on structural cost: unpaid cognitive labor contributing to training data even in "free" use
+- Added two new relevant notes links: [[exploitation through digital tools is structurally unavoidable for individuals under capitalism]] and [[what determines the threshold at which engaging with AI tools becomes net exploitation rather than net gain for the individual]]
+- Added [[political-economy]] to topics
 
 ## /connect
 (to be filled by /connect phase)
