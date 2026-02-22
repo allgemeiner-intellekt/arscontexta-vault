@@ -30,7 +30,7 @@ Note already has strong connections to siblings:
 Added to political-economy and ai-and-technology maps.
 
 ## /revisit
-(to be filled by /revisit phase)
+Backward pass: pre-batch notes checked. No backward links warranted. Graph density is adequate within batch.
 
 ## /verify
 (to be filled by /verify phase)
