@@ -29,7 +29,7 @@ Added links to:
 Added to political-economy and ai-and-technology maps.
 
 ## /revisit
-(to be filled by /revisit phase)
+Backward pass: [[cost friction in AI use suppresses the iterative refinement that actually develops prompt skill]] already references Claude Code note via connect phase enrichment. No additional backward links needed.
 
 ## /verify
 (to be filled by /verify phase)
