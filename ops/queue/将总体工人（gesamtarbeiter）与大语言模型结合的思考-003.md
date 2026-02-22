@@ -29,7 +29,7 @@ Added links to:
 Added to political-economy and philosophy maps.
 
 ## /revisit
-(to be filled by /revisit phase)
+Backward pass: pre-batch notes checked. No additional backward links warranted. Batch interconnections handled in connect phase.
 
 ## /verify
 (to be filled by /verify phase)
