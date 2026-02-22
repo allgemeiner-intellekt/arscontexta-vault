@@ -27,7 +27,7 @@ Note has good sibling connections already. Added to political-economy, ai-and-te
 Cross-link triangles verified: 005 → 010 (Pasquinelli) → 011 (Gesamtarbeiter) → 005 triangle is solid.
 
 ## /revisit
-(to be filled by /revisit phase)
+Backward pass: pre-batch notes checked. No backward links warranted. The Babbage/general intellect note is well-connected forward and laterally.
 
 ## /verify
 (to be filled by /verify phase)
