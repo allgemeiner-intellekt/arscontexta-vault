@@ -20,7 +20,7 @@ Semantic neighbor: none in vault.
 ---
 
 ## Create
-(to be filled by create phase)
+Note created at: notes/individual resistance to AI exploitation is limited; genuine resistance must be collective.md
 
 ## /connect
 (to be filled by /connect phase)
