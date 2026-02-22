@@ -20,7 +20,7 @@ Semantic neighbor: [[cost friction in AI use suppresses the iterative refinement
 ---
 
 ## Create
-(to be filled by create phase)
+Note created at: notes/Claude Code's evolution from tool to machine mirrors the historical transition from craft to industrial machinery.md
 
 ## /connect
 (to be filled by /connect phase)
