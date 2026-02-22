@@ -32,7 +32,7 @@ Also added [[political-economy]] to note's topics, linking it into that map.
 Political-economy map updated to include cost friction note (enrichment now gives it dual-domain relevance).
 
 ## /revisit
-(to be filled by /revisit phase)
+Backward pass: The enriched cost friction note now references batch notes. Pre-batch notes (iterative AI, AI diagnostics) were checked — no backward links to enriched note needed beyond existing links. Graph health: good.
 
 ## /verify
 (to be filled by /verify phase)
