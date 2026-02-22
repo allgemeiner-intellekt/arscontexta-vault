@@ -23,7 +23,10 @@ Semantic neighbor: none in vault.
 Note created at: notes/both illusions of mental labor are real at different levels of abstraction from social relations.md
 
 ## /connect
-(to be filled by /connect phase)
+Added links to:
+- [[exploitation under capitalism is not experienced as deprivation but as the natural order of value itself]]
+- [[the Gesamtarbeiter concept bridges individual mental labor and collective machine-mediated production]]
+Added to political-economy and philosophy maps.
 
 ## /revisit
 (to be filled by /revisit phase)
