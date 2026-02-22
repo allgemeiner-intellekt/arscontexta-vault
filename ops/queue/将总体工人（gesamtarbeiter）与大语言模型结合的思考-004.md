@@ -23,7 +23,11 @@ Semantic neighbor: none in vault.
 Note created at: notes/LLMs convert internet content into exploitable value by making everything published a productive input.md
 
 ## /connect
-(to be filled by /connect phase)
+Note already has strong connections to siblings:
+- [[exploitation under capitalism is not experienced as deprivation but as the natural order of value itself]]
+- [[LLMs replace the mental worker's illusion of authorship with the illusion that capital itself is productive]]
+- [[the Gesamtarbeiter concept bridges individual mental labor and collective machine-mediated production]]
+Added to political-economy and ai-and-technology maps.
 
 ## /revisit
 (to be filled by /revisit phase)
