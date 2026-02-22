@@ -29,6 +29,8 @@ Relevant Notes:
 - [[Pasquinelli's Italian Operaismo reading of information machines provides the theoretical frame for understanding LLMs as Gesamtarbeiter]] -- the theoretical mediation that applies this concept to information machines
 - [[LLMs replace the mental worker's illusion of authorship with the illusion that capital itself is productive]] -- the ideological consequence of erasing the Gesamtarbeiter from view
 - [[individual resistance to AI exploitation is limited; genuine resistance must be collective]] -- the political consequence: the collective nature of production implies collective organization as the appropriate response
+- [[both illusions of mental labor are real at different levels of abstraction from social relations]] -- the philosophical companion: the authorship illusion persists because individual contribution IS real; the Gesamtarbeiter shows it is also partial
+- [[exploitation through digital tools is structurally unavoidable for individuals under capitalism]] -- the structural consequence: the Gesamtarbeiter relation is not a choice but a structural feature of current production
 
 Topics:
 - [[political-economy]]
