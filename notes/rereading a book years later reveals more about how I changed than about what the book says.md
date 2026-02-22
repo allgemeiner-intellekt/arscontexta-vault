@@ -17,6 +17,7 @@ This suggests that understanding is never just about the object — it is always
 
 Relevant Notes:
 - [[the questions you ask about a subject reveal your assumptions more than they reveal the subject]] -- the same structure applies: what you notice when rereading reflects your assumptions, just as the questions you ask do
+- [[iterative AI interaction clarifies the human's thinking not just the AI's output]] -- both notes: using an external object (text / AI response) to achieve self-knowledge rather than knowledge of the object
 
 Topics:
 - [[index]]
