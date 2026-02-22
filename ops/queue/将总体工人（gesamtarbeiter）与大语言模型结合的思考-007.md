@@ -23,7 +23,10 @@ Semantic neighbor: none in vault.
 Note created at: notes/exploitation through digital tools is structurally unavoidable for individuals under capitalism.md
 
 ## /connect
-(to be filled by /connect phase)
+Added links to:
+- [[what determines the threshold at which engaging with AI tools becomes net exploitation rather than net gain for the individual]]
+- [[LLMs convert internet content into exploitable value by making everything published a productive input]]
+Added to political-economy map.
 
 ## /revisit
 (to be filled by /revisit phase)
