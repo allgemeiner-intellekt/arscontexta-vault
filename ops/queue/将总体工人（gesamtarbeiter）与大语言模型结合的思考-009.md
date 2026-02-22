@@ -23,7 +23,10 @@ Semantic neighbor: [[cost friction in AI use suppresses the iterative refinement
 Note created at: notes/Claude Code's evolution from tool to machine mirrors the historical transition from craft to industrial machinery.md
 
 ## /connect
-(to be filled by /connect phase)
+Added links to:
+- [[the Gesamtarbeiter concept bridges individual mental labor and collective machine-mediated production]]
+- [[exploitation through digital tools is structurally unavoidable for individuals under capitalism]]
+Added to political-economy and ai-and-technology maps.
 
 ## /revisit
 (to be filled by /revisit phase)
