@@ -20,8 +20,8 @@
       "batch": "将总体工人（gesamtarbeiter）与大语言模型结合的思考",
       "file": "将总体工人（gesamtarbeiter）与大语言模型结合的思考-001.md",
       "created": "2026-02-22T18:00:00Z",
-      "current_phase": "create",
-      "completed_phases": []
+      "current_phase": "connect",
+      "completed_phases": ["create"]
     },
     {
       "id": "claim-002",
@@ -32,8 +32,8 @@
       "batch": "将总体工人（gesamtarbeiter）与大语言模型结合的思考",
       "file": "将总体工人（gesamtarbeiter）与大语言模型结合的思考-002.md",
       "created": "2026-02-22T18:00:00Z",
-      "current_phase": "create",
-      "completed_phases": []
+      "current_phase": "connect",
+      "completed_phases": ["create"]
     },
     {
       "id": "claim-003",
@@ -44,8 +44,8 @@
       "batch": "将总体工人（gesamtarbeiter）与大语言模型结合的思考",
       "file": "将总体工人（gesamtarbeiter）与大语言模型结合的思考-003.md",
       "created": "2026-02-22T18:00:00Z",
-      "current_phase": "create",
-      "completed_phases": []
+      "current_phase": "connect",
+      "completed_phases": ["create"]
     },
     {
       "id": "claim-004",
@@ -56,8 +56,8 @@
       "batch": "将总体工人（gesamtarbeiter）与大语言模型结合的思考",
       "file": "将总体工人（gesamtarbeiter）与大语言模型结合的思考-004.md",
       "created": "2026-02-22T18:00:00Z",
-      "current_phase": "create",
-      "completed_phases": []
+      "current_phase": "connect",
+      "completed_phases": ["create"]
     },
     {
       "id": "claim-005",
@@ -68,8 +68,8 @@
       "batch": "将总体工人（gesamtarbeiter）与大语言模型结合的思考",
       "file": "将总体工人（gesamtarbeiter）与大语言模型结合的思考-005.md",
       "created": "2026-02-22T18:00:00Z",
-      "current_phase": "create",
-      "completed_phases": []
+      "current_phase": "connect",
+      "completed_phases": ["create"]
     },
     {
       "id": "claim-006",
@@ -80,8 +80,8 @@
       "batch": "将总体工人（gesamtarbeiter）与大语言模型结合的思考",
       "file": "将总体工人（gesamtarbeiter）与大语言模型结合的思考-006.md",
       "created": "2026-02-22T18:00:00Z",
-      "current_phase": "create",
-      "completed_phases": []
+      "current_phase": "connect",
+      "completed_phases": ["create"]
     },
     {
       "id": "claim-007",
@@ -92,8 +92,8 @@
       "batch": "将总体工人（gesamtarbeiter）与大语言模型结合的思考",
       "file": "将总体工人（gesamtarbeiter）与大语言模型结合的思考-007.md",
       "created": "2026-02-22T18:00:00Z",
-      "current_phase": "create",
-      "completed_phases": []
+      "current_phase": "connect",
+      "completed_phases": ["create"]
     },
     {
       "id": "claim-008",
@@ -104,8 +104,8 @@
       "batch": "将总体工人（gesamtarbeiter）与大语言模型结合的思考",
       "file": "将总体工人（gesamtarbeiter）与大语言模型结合的思考-008.md",
       "created": "2026-02-22T18:00:00Z",
-      "current_phase": "create",
-      "completed_phases": []
+      "current_phase": "connect",
+      "completed_phases": ["create"]
     },
     {
       "id": "claim-009",
@@ -116,8 +116,8 @@
       "batch": "将总体工人（gesamtarbeiter）与大语言模型结合的思考",
       "file": "将总体工人（gesamtarbeiter）与大语言模型结合的思考-009.md",
       "created": "2026-02-22T18:00:00Z",
-      "current_phase": "create",
-      "completed_phases": []
+      "current_phase": "connect",
+      "completed_phases": ["create"]
     },
     {
       "id": "claim-010",
@@ -128,8 +128,8 @@
       "batch": "将总体工人（gesamtarbeiter）与大语言模型结合的思考",
       "file": "将总体工人（gesamtarbeiter）与大语言模型结合的思考-010.md",
       "created": "2026-02-22T18:00:00Z",
-      "current_phase": "create",
-      "completed_phases": []
+      "current_phase": "connect",
+      "completed_phases": ["create"]
     },
     {
       "id": "claim-011",
@@ -140,8 +140,8 @@
       "batch": "将总体工人（gesamtarbeiter）与大语言模型结合的思考",
       "file": "将总体工人（gesamtarbeiter）与大语言模型结合的思考-011.md",
       "created": "2026-02-22T18:00:00Z",
-      "current_phase": "create",
-      "completed_phases": []
+      "current_phase": "connect",
+      "completed_phases": ["create"]
     },
     {
       "id": "claim-012",
@@ -152,8 +152,8 @@
       "batch": "将总体工人（gesamtarbeiter）与大语言模型结合的思考",
       "file": "将总体工人（gesamtarbeiter）与大语言模型结合的思考-012.md",
       "created": "2026-02-22T18:00:00Z",
-      "current_phase": "create",
-      "completed_phases": []
+      "current_phase": "connect",
+      "completed_phases": ["create"]
     },
     {
       "id": "claim-013",
@@ -164,8 +164,8 @@
       "batch": "将总体工人（gesamtarbeiter）与大语言模型结合的思考",
       "file": "将总体工人（gesamtarbeiter）与大语言模型结合的思考-013.md",
       "created": "2026-02-22T18:00:00Z",
-      "current_phase": "create",
-      "completed_phases": []
+      "current_phase": "connect",
+      "completed_phases": ["create"]
     },
     {
       "id": "enrich-014",
@@ -176,8 +176,8 @@
       "batch": "将总体工人（gesamtarbeiter）与大语言模型结合的思考",
       "file": "将总体工人（gesamtarbeiter）与大语言模型结合的思考-014.md",
       "created": "2026-02-22T18:00:00Z",
-      "current_phase": "enrich",
-      "completed_phases": []
+      "current_phase": "connect",
+      "completed_phases": ["enrich"]
     }
   ],
   "maintenance_conditions": {
