@@ -21,7 +21,10 @@ Rationale: The source proposes a heuristic: if you cannot be adequately compensa
 Note created at: notes/what determines the threshold at which engaging with AI tools becomes net exploitation rather than net gain for the individual.md
 
 ## /connect
-(to be filled by /connect phase)
+Added links to:
+- [[LLMs convert internet content into exploitable value by making everything published a productive input]]
+- [[digital tools occupy a dual character as both machine in the labor process and personal instrument]]
+Added to political-economy and ai-and-technology maps.
 
 ## /revisit
 (to be filled by /revisit phase)
