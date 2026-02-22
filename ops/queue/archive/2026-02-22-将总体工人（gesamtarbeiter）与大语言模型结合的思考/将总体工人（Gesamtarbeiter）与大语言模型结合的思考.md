@@ -1,39 +1,46 @@
 ---
-created: 2026-02-22
+id: 将总体工人（gesamtarbeiter）与大语言模型结合的思考
+type: extract
+source: ops/queue/archive/2026-02-22-将总体工人（gesamtarbeiter）与大语言模型结合的思考/将总体工人（Gesamtarbeiter）与大语言模型结合的思考.md
+original_path: inbox/将总体工人（Gesamtarbeiter）与大语言模型结合的思考.md
+archive_folder: ops/queue/archive/2026-02-22-将总体工人（gesamtarbeiter）与大语言模型结合的思考
+created: 2026-02-22T00:00:00Z
+next_claim_start: 1
 ---
-Extract from: [[2026-W08]]
 
-## 将总体工人（Gesamtarbeiter）与大语言模型结合的思考
+# Extract notes from 将总体工人（Gesamtarbeiter）与大语言模型结合的思考
 
-[我开始不care署名权，甚至希望AI成为一作 - 小红书](https://www.xiaohongshu.com/explore/6998a0d8000000000a03296f?xsec_token=AB1_dal76yI1AAzEe1KoQ8myvqNKPFnClBChEOx-tUg90=&xsec_source=pc_like)
+## Source
+Original: inbox/将总体工人（Gesamtarbeiter）与大语言模型结合的思考.md
+Archived: ops/queue/archive/2026-02-22-将总体工人（gesamtarbeiter）与大语言模型结合的思考/将总体工人（Gesamtarbeiter）与大语言模型结合的思考.md
+Size: 39 lines
+Content type: First-person philosophical reflection (Chinese) — thinking-note connecting Marxist political economy (Gesamtarbeiter / general intellect) to LLMs, with a concrete case study (Claude Code). References Babbage, Marx, Pasquinelli's Operaismo piece.
 
-是所有大语言模型相关的从业者都能使用insider版本的模型，还是他们都把自己蒙骗了？*这句话看来与下面我真正思考的东西不太接得上*
+## Scope
+Full document
 
-工人什么时候有过自己生产的产品的所有权/署名权？脑力劳动或许会给人这种错觉，而大语言模型或许会用另一种错觉——资本本身具有生产力——代替脑力劳动者们的错觉。有趣的是，两种错觉都是现实的，脑力劳动者作为抽象掉社会关系的具体的人的确拥有自己的产品，而资本作为物神的确拥有生产力。
+## Acceptance Criteria
+- Extract claims, implementation ideas, tensions, and testable hypotheses
+- Duplicate check against notes/ during extraction
+- Near-duplicates create enrichment tasks (do not skip)
+- Each output type gets appropriate handling
 
-这个从错觉到错觉到过程，带来的是更多剥削——而剥削并不痛苦。“剥削”作为一个术语，描述的是当前社会中或许最自然的行为。剥削不是剥夺，而是重新阐释；不是依照一个外在的“价值索引”搜刮，而是为整个社会维护这个价值的索引。简单来说，所有已经发布、正在发布和将要发布在互联网上的东西，都有价值了。
+## Key Concepts Present
+- Gesamtarbeiter (collective worker / total worker) — Marx
+- Allgemeiner Intellekt (general intellect) — Marx, Grundrisse
+- Babbage's machinery and the labor theory of machines
+- LLMs as fixed capital absorbing social knowledge
+- Fetishism: two illusions — mental labor's ownership illusion → capital-as-productive-force illusion
+- Exploitation as re-indexing value rather than confiscation
+- Personal tools vs. machines in the labor process (computer / Claude Code as case)
+- Individual limits of resistance; collective resistance as the real alternative
+- Claude Code as evolving from tool to machine (automation increasing, less transparent)
 
-如果说大语言模型的确对抽象掉社会关系的具体的人有什么不可替代的作用，那就是为拜比吉的机器的劳动理论、马克思关于一般智力和总体工人的思考，以及更一般的对信息和机器的思考，提供了一个最新的案例。
+## Domain
+political-economy, ai-and-technology, philosophy
 
-- 参考
-- [[Italian Operaismo and the Information Machine - Matteo Pasquinelli, 2015]]
-- [[写作/学习vs工作的哲学理论资源|学习vs工作的哲学理论资源]] ——大语言模型适合工作场景有了更深远的意义
+## Execution Notes
+(filled by /distill)
 
-进一步思考：同时作为机器（劳动过程）和个人对工具。
-
-计算机或许是一个案例。计算机当然是劳动过程中的机器，但似乎也是个人的工具（虽然作为个人的工具也就有剥削的能力）。这个案例或许能帮助我更好地理解大语言模型的意义。
-
-个人层面能做的事情其实非常有限。脑力劳动的机器同时也是商品，而这些商品必然会收集个人的增量信息并造成剥削。这种剥削是普遍存在的，并非个人在当前社会中可以规避的，因为剥削正是当前社会的本质特征。
-
-因此，我们可以得出一个关于使用这些工具的微小约束：如果不能获得足够高的报酬，就不要将时间全部投入到改进这些工具上。目前研发计算机和大型语言模型的从业者收入很高，他们的工作本质就是改进这些技术。如果个人将业余时间全情投入到改进这些工具中，却无法通过任何方式变现或获得相应收入，那这种亏损就很直接了。如果日常生活中除了研究AI别无他想，且无法从这种个人兴趣中获得收益，那这种直接的亏损便不值得。
-
-AI并不会因为个人的不参与而停止优化，它会持续收集大众的增量信息并作为机器不断改进。我认为这可以为个人提供一点思考，而真正的反抗一定是集体性的。集体反抗的依据在于我们需要的是一个全新的社会，而不仅仅是靠个人做出一些调整或改变就能解决的。
-
-另一个案例：Claude Code
-
-我觉得Claude Code是“脑力劳动的机器”的一个良好案例。
-
-首先很有象征性的是，Claude Code是一个快速更新的闭源软件，它的更新有一部分，就是吸收开源社区对这个工具使用经验的分享（检索具体案例）。
-
-更一般的，如果说在Claude Code刚发布时，人人都知道这是一个好的工具，那么其最新的更新，却更像“机器”。它的功能在不断膨胀，而且越来越不直观——越来越倾向于自动化、后台运行。对于早期更新的功能，用户看一眼就知道，可以如何去使用；而最新的更新，却往往给人一种不知道如何落地的感觉，这一点很像自动化程度越来越高、从工具转变为机器。
-
+## Outputs
+(filled by /distill)
