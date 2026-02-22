@@ -26,6 +26,8 @@ Relevant Notes:
 - [[LLMs are the latest historical case for Babbage's labor theory of machinery and Marx's general intellect]] -- the theoretical arc this framework mediates
 - [[the Gesamtarbeiter concept bridges individual mental labor and collective machine-mediated production]] -- the concept Pasquinelli's frame is used to apply to LLMs
 - [[LLMs convert internet content into exploitable value by making everything published a productive input]] -- the empirical operation this theoretical frame explains
+- [[exploitation under capitalism is not experienced as deprivation but as the natural order of value itself]] -- the value-theory foundation that operaismo shares with classical Marxism
+- [[Claude Code's evolution from tool to machine mirrors the historical transition from craft to industrial machinery]] -- a concrete case that validates the operaismo analysis: information machines follow the same historical trajectory as industrial machinery
 
 Topics:
 - [[political-economy]]
