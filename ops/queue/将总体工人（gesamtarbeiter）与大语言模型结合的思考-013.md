@@ -18,7 +18,7 @@ Rationale: The source proposes a heuristic: if you cannot be adequately compensa
 ---
 
 ## Create
-(to be filled by create phase)
+Note created at: notes/what determines the threshold at which engaging with AI tools becomes net exploitation rather than net gain for the individual.md
 
 ## /connect
 (to be filled by /connect phase)
