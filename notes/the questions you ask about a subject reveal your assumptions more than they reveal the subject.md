@@ -17,6 +17,7 @@ This has a recursive quality: noticing which questions you ask, and which you ne
 
 Relevant Notes:
 - [[rereading a book years later reveals more about how I changed than about what the book says]] -- both notes point to the same insight: the observer shapes the observation, whether through the lens of rereading or through the frame of inquiry
+- [[recurring disagreements often stem from different frames rather than different facts]] -- when different people ask different questions, the frame gap becomes interpersonal conflict
 
 Topics:
 - [[index]]
