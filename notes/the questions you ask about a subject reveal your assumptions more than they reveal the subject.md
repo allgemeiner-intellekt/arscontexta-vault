@@ -18,6 +18,8 @@ This has a recursive quality: noticing which questions you ask, and which you ne
 Relevant Notes:
 - [[rereading a book years later reveals more about how I changed than about what the book says]] -- both notes point to the same insight: the observer shapes the observation, whether through the lens of rereading or through the frame of inquiry
 - [[recurring disagreements often stem from different frames rather than different facts]] -- when different people ask different questions, the frame gap becomes interpersonal conflict
+- [[AI responses can be read as diagnostics of the prompt's hidden assumptions]] -- a prompt is a kind of question; the AI's response reveals the prompt's frame just as an interlocutor's confusion reveals the questioner's assumptions
+- [[iterative AI interaction clarifies the human's thinking not just the AI's output]] -- iterating on prompts forces the user to make explicit the assumptions embedded in their question
 
 Topics:
 - [[index]]
