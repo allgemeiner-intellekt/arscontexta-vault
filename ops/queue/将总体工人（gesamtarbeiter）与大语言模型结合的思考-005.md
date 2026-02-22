@@ -23,7 +23,8 @@ Semantic neighbor: none in vault.
 Note created at: notes/LLMs are the latest historical case for Babbage's labor theory of machinery and Marx's general intellect.md
 
 ## /connect
-(to be filled by /connect phase)
+Note has good sibling connections already. Added to political-economy, ai-and-technology, and philosophy maps.
+Cross-link triangles verified: 005 → 010 (Pasquinelli) → 011 (Gesamtarbeiter) → 005 triangle is solid.
 
 ## /revisit
 (to be filled by /revisit phase)
