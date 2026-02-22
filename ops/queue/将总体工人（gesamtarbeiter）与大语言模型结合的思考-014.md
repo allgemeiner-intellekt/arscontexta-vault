@@ -25,7 +25,11 @@ Added political-economy framing to: notes/cost friction in AI use suppresses the
 - Added [[political-economy]] to topics
 
 ## /connect
-(to be filled by /connect phase)
+The enriched note [[cost friction in AI use suppresses the iterative refinement that actually develops prompt skill]] now connects to:
+- [[exploitation through digital tools is structurally unavoidable for individuals under capitalism]]
+- [[what determines the threshold at which engaging with AI tools becomes net exploitation rather than net gain for the individual]]
+Also added [[political-economy]] to note's topics, linking it into that map.
+Political-economy map updated to include cost friction note (enrichment now gives it dual-domain relevance).
 
 ## /revisit
 (to be filled by /revisit phase)
