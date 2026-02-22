@@ -249,7 +249,7 @@ After user confirmation, apply all dispositions in order:
 **For KEEP PENDING items:**
 1. No changes — leave in place
 
-**Update MOCs:** After triage execution, update `ops/observations.md` and `ops/tensions.md` to reflect status changes. Move entries between Pending/Promoted/Archived/Resolved/Dissolved sections as appropriate.
+**Update maps:** After triage execution, update `ops/observations.md` and `ops/tensions.md` to reflect status changes. Move entries between Pending/Promoted/Archived/Resolved/Dissolved sections as appropriate.
 
 ---
 
@@ -299,7 +299,7 @@ Before creating a new methodology note:
 2. Check if any existing note covers the same behavioral area
 3. If overlap > 80%, extend rather than duplicate
 
-### Update Methodology MOC
+### Update Methodology Map
 
 After creating or updating methodology notes, update `ops/methodology.md`:
 - Add new notes to the appropriate category section
@@ -564,7 +564,7 @@ This creates an evolution history. When /architect or /reseed runs, it can revie
 
 These directories are part of the operational learning loop kernel primitive. If they do not exist:
 1. Report the structural gap
-2. Recommend creating them: "The operational learning loop requires `ops/observations/` and `ops/tensions/`. Create these directories and their MOC files to begin capturing system friction."
+2. Recommend creating them: "The operational learning loop requires `ops/observations/` and `ops/tensions/`. Create these directories and their map files to begin capturing system friction."
 3. Do not attempt to run rethink without evidence sources
 
 ### Nothing Pending
@@ -637,7 +637,7 @@ If the evidence pool is very large:
 - Propose tests for new approaches — how will you know if the change worked?
 - Respect that the human makes final decisions on system changes
 - Log changes to ops/changelog.md for evolution tracking
-- Update MOCs after triage changes status of observations/tensions
+- Update maps after triage changes status of observations/tensions
 
 ## The Meta-Layer
 

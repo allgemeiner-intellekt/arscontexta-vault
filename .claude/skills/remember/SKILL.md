@@ -128,7 +128,7 @@ Related: [[methodology]]
 - State both the DO and the DON'T — methodology notes that only say what to do miss the anti-pattern that triggered them
 - Keep scope explicit — unbounded methodology notes get applied where they should not be
 
-### Step 4: Update Methodology MOC
+### Step 4: Update Methodology Map
 
 Edit `ops/methodology.md` (create if missing):
 
@@ -167,7 +167,7 @@ and potentially elevate them to context file changes.
 
   Captured: [brief description of the learning]
   Filed to: ops/methodology/[filename].md
-  Updated: ops/methodology.md MOC
+  Updated: ops/methodology.md map
   Category: [category]
 
   [If pattern threshold reached:]
@@ -459,7 +459,7 @@ If a friction point spans categories (e.g., "processing voice" or "capture quali
 
 ### No ops/methodology/ Directory
 
-Create it and the `ops/methodology.md` MOC:
+Create it and the `ops/methodology.md` map:
 
 ```markdown
 ---
