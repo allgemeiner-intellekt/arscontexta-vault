@@ -20,7 +20,7 @@ Semantic neighbor: none in vault.
 ---
 
 ## Create
-(to be filled by create phase)
+Note created at: notes/LLMs convert internet content into exploitable value by making everything published a productive input.md
 
 ## /connect
 (to be filled by /connect phase)
