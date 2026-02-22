@@ -17,12 +17,19 @@ Conversely, when cost friction disappears — through free access, reverse-proxi
 
 The irony is that "wasting" attempts is the mechanism by which prompt skill develops. Cost friction that discourages wasted attempts also discourages learning.
 
+There is a second dimension to cost friction that the behavioral analysis alone misses: even "free" AI use involves real cost at the structural level. Every interaction feeds training data — query patterns, correction signals, usage behavior — back to the model's improvement process. This is not a psychological cost; it is a material transfer. The user who engages "freely" is contributing unpaid cognitive labor to capital's productive apparatus. The "free" framing obscures a genuine structural exploitation: the cost is borne collectively (as absorbed social labor), while the benefit accrues to the AI company.
+
+This structural dimension reframes cost friction from a behavioral phenomenon to a political-economic one. The hesitation a user feels before submitting another prompt is not merely anxiety about monetary cost; it is a dim registration of the asymmetric exchange: my cognitive labor improves the system; the system does not compensate me. Cost friction, in this reading, has a rational core that pure behavioral analysis misses.
+
 ---
 
 Relevant Notes:
 - [[iterative AI interaction clarifies the human's thinking not just the AI's output]] -- the downstream effect: it is not just the prompt that improves through iteration, but the user's conceptual clarity
 - [[AI responses can be read as diagnostics of the prompt's hidden assumptions]] -- what the AI does with a prompt reveals what the prompt assumed or left unsaid
 - [[the questions you ask about a subject reveal your assumptions more than they reveal the subject]] -- same structure: the prompt, like the question, reveals the frame of the asker more than it reveals the subject
+- [[exploitation through digital tools is structurally unavoidable for individuals under capitalism]] -- the structural frame: even free AI use is not exploitation-free; it contributes to the collective valorization apparatus
+- [[what determines the threshold at which engaging with AI tools becomes net exploitation rather than net gain for the individual]] -- the open question: when does cost friction's rational core become a practical guide for limiting engagement?
 
 Topics:
 - [[ai-and-technology]]
+- [[political-economy]]
