@@ -29,7 +29,7 @@ Added links to:
 Added to political-economy and philosophy maps.
 
 ## /revisit
-(to be filled by /revisit phase)
+Backward pass: pre-batch notes checked. No backward links warranted. Gesamtarbeiter note is a hub — referenced by many batch siblings forward.
 
 ## /verify
 (to be filled by /verify phase)
