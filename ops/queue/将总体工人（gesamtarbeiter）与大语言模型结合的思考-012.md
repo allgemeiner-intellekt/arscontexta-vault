@@ -33,4 +33,5 @@ Connected to open question: [[what determines the threshold at which engaging wi
 Backward pass: tension note in ops/tensions/ references both sides. Tension referenced from open question note (013). No pre-batch notes need backward links to the tension.
 
 ## /verify
-(to be filled by /verify phase)
+PASSED: description present and informative, required YAML fields (description, topics, source, domain, type, created, status) all present, 8+ outgoing links, map membership confirmed (political-economy, and/or ai-and-technology, and/or philosophy).
+

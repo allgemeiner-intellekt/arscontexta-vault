@@ -35,4 +35,4 @@ Political-economy map updated to include cost friction note (enrichment now give
 Backward pass: The enriched cost friction note now references batch notes. Pre-batch notes (iterative AI, AI diagnostics) were checked — no backward links to enriched note needed beyond existing links. Graph health: good.
 
 ## /verify
-(to be filled by /verify phase)
+PASSED: Enriched note [[cost friction in AI use suppresses the iterative refinement that actually develops prompt skill]] now has: description present, required YAML fields present, 9+ outgoing links, membership in both [[ai-and-technology]] and [[political-economy]] maps. Enrichment adds genuine new framing (structural exploitation dimension) without duplicating original claim (behavioral friction dimension).
