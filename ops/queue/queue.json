@@ -6,10 +6,40 @@
       "batch": "免费使用AI是最好的提示词工程",
       "type": "extract",
       "source": "inbox/archive/免费使用AI是最好的提示词工程/免费使用AI是最好的提示词工程.md",
-      "current_phase": "extract",
-      "status": "pending",
+      "current_phase": "done",
+      "status": "done",
       "created": "2026-02-22",
       "claim_start": 1
+    },
+    {
+      "id": "claim-1-cost-friction",
+      "batch": "免费使用AI是最好的提示词工程",
+      "type": "claim",
+      "note": "notes/cost friction in AI use suppresses the iterative refinement that actually develops prompt skill.md",
+      "current_phase": "done",
+      "status": "done",
+      "phases_completed": ["create", "connect", "revisit", "verify"],
+      "created": "2026-02-22"
+    },
+    {
+      "id": "claim-2-ai-diagnostics",
+      "batch": "免费使用AI是最好的提示词工程",
+      "type": "claim",
+      "note": "notes/AI responses can be read as diagnostics of the prompt's hidden assumptions.md",
+      "current_phase": "done",
+      "status": "done",
+      "phases_completed": ["create", "connect", "revisit", "verify"],
+      "created": "2026-02-22"
+    },
+    {
+      "id": "claim-3-iterative-clarity",
+      "batch": "免费使用AI是最好的提示词工程",
+      "type": "claim",
+      "note": "notes/iterative AI interaction clarifies the human's thinking not just the AI's output.md",
+      "current_phase": "done",
+      "status": "done",
+      "phases_completed": ["create", "connect", "revisit", "verify"],
+      "created": "2026-02-22"
     }
   ],
   "maintenance_conditions": {
