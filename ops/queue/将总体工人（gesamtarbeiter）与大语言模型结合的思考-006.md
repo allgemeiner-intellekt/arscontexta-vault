@@ -20,7 +20,7 @@ Semantic neighbor: none in vault.
 ---
 
 ## Create
-(to be filled by create phase)
+Note created at: notes/digital tools occupy a dual character as both machine in the labor process and personal instrument.md
 
 ## /connect
 (to be filled by /connect phase)
