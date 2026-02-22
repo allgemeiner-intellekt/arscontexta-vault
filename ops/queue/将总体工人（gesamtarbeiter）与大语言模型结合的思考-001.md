@@ -23,7 +23,11 @@ Semantic neighbor: none found. Novel claim connecting Marxist ideology critique 
 Note created at: notes/LLMs replace the mental worker's illusion of authorship with the illusion that capital itself is productive.md
 
 ## /connect
-(to be filled by /connect phase)
+Added links to:
+- [[both illusions of mental labor are real at different levels of abstraction from social relations]]
+- [[the Gesamtarbeiter concept bridges individual mental labor and collective machine-mediated production]]
+- [[LLMs convert internet content into exploitable value by making everything published a productive input]]
+Added to political-economy and ai-and-technology maps.
 
 ## /revisit
 (to be filled by /revisit phase)
