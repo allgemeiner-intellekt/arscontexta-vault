@@ -30,7 +30,7 @@ Tension note in ops/tensions/ references both conflicting notes:
 Connected to open question: [[what determines the threshold at which engaging with AI tools becomes net exploitation rather than net gain for the individual]]
 
 ## /revisit
-(to be filled by /revisit phase)
+Backward pass: tension note in ops/tensions/ references both sides. Tension referenced from open question note (013). No pre-batch notes need backward links to the tension.
 
 ## /verify
 (to be filled by /verify phase)
